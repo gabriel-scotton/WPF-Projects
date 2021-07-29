@@ -1,0 +1,63 @@
+<Button 
+            Name="ButtonNumber1"
+            Grid.Row="4"
+            Grid.Column="0"
+            Content="1"
+            TextBlock.Foreground="White" Background="#FF404040"   
+            />
+<Button 
+            Name="ButtonNumber2"
+            Grid.Row="4"
+            Grid.Column="1"
+            Content="2"
+            TextBlock.Foreground="White" Background="#FF404040"   
+            />
+<Button 
+            Name="ButtonNumber3"
+            Grid.Row="4"
+            Grid.Column="2"
+            Content="3"
+            TextBlock.Foreground="White" Background="#FF404040"   
+            />
+<Button 
+            Name="ButtonNumber4"
+            Grid.Row="3"
+            Grid.Column="0"
+            Content="4"
+            TextBlock.Foreground="White" Background="#FF404040"   
+            />
+<Button 
+            Name="ButtonNumber5"
+            Grid.Row="3"
+            Grid.Column="1"
+            Content="5"
+            TextBlock.Foreground="White" Background="#FF404040"   
+            />
+<Button 
+            Name="ButtonNumber6"
+            Grid.Row="3"
+            Grid.Column="2"
+            Content="6"
+            TextBlock.Foreground="White" Background="#FF404040"   
+            />
+<Button 
+            Name="ButtonNumber7"
+            Grid.Row="2"
+            Grid.Column="0"
+            Content="7"
+            TextBlock.Foreground="White" Background="#FF404040"   
+            />
+<Button 
+            Name="ButtonNumber8"
+            Grid.Row="2"
+            Grid.Column="1"
+            Content="8"
+            TextBlock.Foreground="White" Background="#FF404040"   
+            />
+<Button 
+            Name="ButtonNumber9"
+            Grid.Row="2"
+            Grid.Column="2"
+            Content="9"
+            TextBlock.Foreground="White" Background="#FF404040"   
+            />
