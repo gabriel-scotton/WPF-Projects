@@ -8,7 +8,6 @@ A:\Estudo\C#\WPF projects\CalcApp\bin\Debug\netcoreapp3.1\CalcApp.runtimeconfig.
 A:\Estudo\C#\WPF projects\CalcApp\bin\Debug\netcoreapp3.1\CalcApp.dll
 A:\Estudo\C#\WPF projects\CalcApp\bin\Debug\netcoreapp3.1\CalcApp.pdb
 A:\Estudo\C#\WPF projects\CalcApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
-A:\Estudo\C#\WPF projects\CalcApp\obj\Debug\netcoreapp3.1\CalcApp_MarkupCompile.lref
 A:\Estudo\C#\WPF projects\CalcApp\obj\Debug\netcoreapp3.1\MainWindow.baml
 A:\Estudo\C#\WPF projects\CalcApp\obj\Debug\netcoreapp3.1\CalcApp.g.resources
 A:\Estudo\C#\WPF projects\CalcApp\obj\Debug\netcoreapp3.1\CalcApp.AssemblyInfoInputs.cache
